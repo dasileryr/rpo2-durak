@@ -1,0 +1,132 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Славян\4 курс\Заказы\Дурак\для инета\Package\1
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi6.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi7.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi8.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi9.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi10.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi11.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi12.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi13.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi14.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi6.bmp=
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi7.bmp=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+E:\Славян\4 курс\Заказы\Дурак\для инета\Durak.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi6.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi7.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi8.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi9.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi10.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi11.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi12.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi13.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi14.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi6.bmp=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi7.bmp=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\Славян\4 курс\Заказы\Дурак\для инета\Durak.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi6.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi7.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi8.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi9.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi10.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi11.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi12.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi13.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi14.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi6.bmp=$(AppPath)
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi7.bmp=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\Славян\4 курс\Заказы\Дурак\для инета\Durak.exe=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi6.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi7.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi8.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi9.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi10.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi11.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi12.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi13.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\bubi14.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi6.bmp=No
+E:\Славян\4 курс\Заказы\Дурак\для инета\karti\chervi7.bmp=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Карточная игра "Дурак"
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Карточная игра "Дурак"
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Карточная игра "Дурак"]
+Icon1=Durak.exe
+Title1=Карточная игра "Дурак"
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\Славян\4 курс\Заказы\Дурак\для инета\Package\1
+ProjectFolder=E:\Славян\4 курс\Заказы\Дурак\для инета
+ServerSideCab=
+File1=E:\Славян\4 курс\Заказы\Дурак\для инета\Package\1\setup.exe
+File2=E:\Славян\4 курс\Заказы\Дурак\для инета\Package\1\Setup.Lst
+File3=E:\Славян\4 курс\Заказы\Дурак\для инета\Package\1\Durak.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
